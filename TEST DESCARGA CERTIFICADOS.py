@@ -20,6 +20,6 @@ for dorsales, mensaje in combo:
     #tm.sleep(8)
     pg.press('tab', 16)
     pg.press('enter')
-    tm.sleep(7)
+    tm.sleep(4)
     pg.hotkey('ctrl', 'w')
     print("descargado",dorsales)
